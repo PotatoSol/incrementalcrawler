@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://chartapq067dp"
+path="res://.godot/imported/plate_stack.obj-272a741adb46e581bf41f4cd559da903.mesh"
+
+[deps]
+
+files=["res://.godot/imported/plate_stack.obj-272a741adb46e581bf41f4cd559da903.mesh"]
+
+source_file="res://assets/map/obj/plate_stack.obj"
+dest_files=["res://.godot/imported/plate_stack.obj-272a741adb46e581bf41f4cd559da903.mesh", "res://.godot/imported/plate_stack.obj-272a741adb46e581bf41f4cd559da903.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

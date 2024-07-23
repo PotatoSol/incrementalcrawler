@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://be8tbw2c3wth5"
+path="res://.godot/imported/wall_half_endcap.obj-19811d35a06b5c6c5f5478db41a5a87f.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_half_endcap.obj-19811d35a06b5c6c5f5478db41a5a87f.mesh"]
+
+source_file="res://assets/map/obj/wall_half_endcap.obj"
+dest_files=["res://.godot/imported/wall_half_endcap.obj-19811d35a06b5c6c5f5478db41a5a87f.mesh", "res://.godot/imported/wall_half_endcap.obj-19811d35a06b5c6c5f5478db41a5a87f.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

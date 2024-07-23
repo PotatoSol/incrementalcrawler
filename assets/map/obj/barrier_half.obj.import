@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ec8i1mmy1yxy"
+path="res://.godot/imported/barrier_half.obj-7567c45249c69387bf760b355d4d24fd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/barrier_half.obj-7567c45249c69387bf760b355d4d24fd.mesh"]
+
+source_file="res://assets/map/obj/barrier_half.obj"
+dest_files=["res://.godot/imported/barrier_half.obj-7567c45249c69387bf760b355d4d24fd.mesh", "res://.godot/imported/barrier_half.obj-7567c45249c69387bf760b355d4d24fd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

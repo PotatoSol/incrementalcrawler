@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dksb3wxbl51px"
+path="res://.godot/imported/stairs_long.obj-3be4a9cd8a210e4628d95379519e1156.mesh"
+
+[deps]
+
+files=["res://.godot/imported/stairs_long.obj-3be4a9cd8a210e4628d95379519e1156.mesh"]
+
+source_file="res://assets/map/obj/stairs_long.obj"
+dest_files=["res://.godot/imported/stairs_long.obj-3be4a9cd8a210e4628d95379519e1156.mesh", "res://.godot/imported/stairs_long.obj-3be4a9cd8a210e4628d95379519e1156.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

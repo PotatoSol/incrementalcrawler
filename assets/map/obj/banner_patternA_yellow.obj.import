@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dobermktt2tgd"
+path="res://.godot/imported/banner_patternA_yellow.obj-1d8e6c2980126c34db7e627b4caf20e8.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_patternA_yellow.obj-1d8e6c2980126c34db7e627b4caf20e8.mesh"]
+
+source_file="res://assets/map/obj/banner_patternA_yellow.obj"
+dest_files=["res://.godot/imported/banner_patternA_yellow.obj-1d8e6c2980126c34db7e627b4caf20e8.mesh", "res://.godot/imported/banner_patternA_yellow.obj-1d8e6c2980126c34db7e627b4caf20e8.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

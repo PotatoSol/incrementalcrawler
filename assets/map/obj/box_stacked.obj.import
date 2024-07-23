@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://di4l7fx5fhjfy"
+path="res://.godot/imported/box_stacked.obj-df76152b9d0e70a9e8d91ba9d2bfe52a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/box_stacked.obj-df76152b9d0e70a9e8d91ba9d2bfe52a.mesh"]
+
+source_file="res://assets/map/obj/box_stacked.obj"
+dest_files=["res://.godot/imported/box_stacked.obj-df76152b9d0e70a9e8d91ba9d2bfe52a.mesh", "res://.godot/imported/box_stacked.obj-df76152b9d0e70a9e8d91ba9d2bfe52a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://g4cg42x1oh85"
+path="res://.godot/imported/banner_patternB_brown.obj-4c767c909daf634c5aa9378047ab1e97.mesh"
+
+[deps]
+
+files=["res://.godot/imported/banner_patternB_brown.obj-4c767c909daf634c5aa9378047ab1e97.mesh"]
+
+source_file="res://assets/map/obj/banner_patternB_brown.obj"
+dest_files=["res://.godot/imported/banner_patternB_brown.obj-4c767c909daf634c5aa9378047ab1e97.mesh", "res://.godot/imported/banner_patternB_brown.obj-4c767c909daf634c5aa9378047ab1e97.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,49 @@
+[gd_scene load_steps=4 format=3 uid="uid://c3aayi6ahk2ko"]
+
+[ext_resource type="PackedScene" uid="uid://e4lsbvm3rmtv" path="res://assets/characters/gltf/Knight.glb" id="1_x2udx"]
+[ext_resource type="Script" path="res://scripts/characters/ControllableCrawler.cs" id="2_65cme"]
+
+[sub_resource type="CapsuleShape3D" id="CapsuleShape3D_n5i6r"]
+
+[node name="Knight" instance=ExtResource("1_x2udx")]
+script = ExtResource("2_65cme")
+
+[node name="1H_Sword_Offhand" parent="Rig/Skeleton3D" index="0"]
+transform = Transform3D(-0.999999, -2.3056e-07, -1.26916e-07, -1.33741e-07, -5.60721e-07, 0.999999, -1.54971e-07, 0.999999, 5.63844e-07, 0.883132, 1.04926, 0.017011)
+bone_idx = 9
+
+[node name="Badge_Shield" parent="Rig/Skeleton3D" index="1"]
+transform = Transform3D(-0.999999, 2.30462e-06, -7.94378e-07, -8.01205e-07, -7.67352e-07, 0.999999, 2.38021e-06, 0.999999, 7.70477e-07, 0.883132, 1.20515, 0.0170111)
+bone_idx = 10
+
+[node name="Rectangle_Shield" parent="Rig/Skeleton3D" index="2"]
+transform = Transform3D(-0.999999, 2.30462e-06, -7.94378e-07, -8.01205e-07, -7.67352e-07, 0.999999, 2.38021e-06, 0.999999, 7.70477e-07, 0.883132, 1.20515, 0.0170111)
+bone_idx = 11
+
+[node name="Round_Shield" parent="Rig/Skeleton3D" index="3"]
+transform = Transform3D(-0.999999, 2.30462e-06, -7.94378e-07, -8.01205e-07, -7.67352e-07, 0.999999, 2.38021e-06, 0.999999, 7.70477e-07, 0.883132, 1.20515, 0.0170111)
+bone_idx = 12
+
+[node name="Spike_Shield" parent="Rig/Skeleton3D" index="4"]
+transform = Transform3D(-0.999999, 2.30462e-06, -7.94378e-07, -8.01205e-07, -7.67352e-07, 0.999999, 2.38021e-06, 0.999999, 7.70477e-07, 0.883132, 1.20515, 0.0170111)
+bone_idx = 13
+
+[node name="1H_Sword" parent="Rig/Skeleton3D" index="5"]
+transform = Transform3D(0.999999, 1.1524e-07, -5.12362e-07, -5.68353e-07, -8.65135e-07, -0.999999, -1.21993e-07, 1, -8.61723e-07, -0.883132, 1.04926, 0.0333085)
+bone_idx = 19
+
+[node name="2H_Sword" parent="Rig/Skeleton3D" index="6"]
+transform = Transform3D(0.999999, 1.00507e-07, -4.98676e-07, -5.54667e-07, -8.65135e-07, -0.999999, -1.07259e-07, 1, -8.61723e-07, -0.883132, 1.04926, 0.0333085)
+bone_idx = 20
+
+[node name="Knight_Helmet" parent="Rig/Skeleton3D" index="7"]
+transform = Transform3D(1, -2.20965e-22, 1.69407e-21, 2.20965e-22, 1, 0, -1.69407e-21, 3.58732e-43, 1, 4.76837e-07, 1.21589, -1.08542e-07)
+bone_idx = 22
+
+[node name="Knight_Cape" parent="Rig/Skeleton3D" index="8"]
+transform = Transform3D(1, 1.25214e-21, 0, -1.25214e-21, 1, 7.17465e-43, 0, 0, 1, 0, 1.21589, -1.4066e-07)
+bone_idx = 23
+
+[node name="CollisionShape3D" type="CollisionShape3D" parent="." index="2"]
+transform = Transform3D(1.25, 0, 0, 0, 1.25, 0, 0, 0, 1.25, 2.08165e-12, 1.25, 2.08165e-12)
+shape = SubResource("CapsuleShape3D_n5i6r")

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bstcwr14o21fm"
+path="res://.godot/imported/ceiling_tile.obj-fadf09118c983aa9b974a5cbd69fe072.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ceiling_tile.obj-fadf09118c983aa9b974a5cbd69fe072.mesh"]
+
+source_file="res://assets/map/obj/ceiling_tile.obj"
+dest_files=["res://.godot/imported/ceiling_tile.obj-fadf09118c983aa9b974a5cbd69fe072.mesh", "res://.godot/imported/ceiling_tile.obj-fadf09118c983aa9b974a5cbd69fe072.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://csr25arrlb2n7"
+path="res://.godot/imported/wall_corner_scaffold.obj-fdddcfe1fd1aa67eee807c8298be57cb.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_corner_scaffold.obj-fdddcfe1fd1aa67eee807c8298be57cb.mesh"]
+
+source_file="res://assets/map/obj/wall_corner_scaffold.obj"
+dest_files=["res://.godot/imported/wall_corner_scaffold.obj-fdddcfe1fd1aa67eee807c8298be57cb.mesh", "res://.godot/imported/wall_corner_scaffold.obj-fdddcfe1fd1aa67eee807c8298be57cb.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

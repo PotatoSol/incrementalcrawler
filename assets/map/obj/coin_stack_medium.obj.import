@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dqyt3b3s7ad4l"
+path="res://.godot/imported/coin_stack_medium.obj-17b3aa973c7af0d7bce7210fd60acf9c.mesh"
+
+[deps]
+
+files=["res://.godot/imported/coin_stack_medium.obj-17b3aa973c7af0d7bce7210fd60acf9c.mesh"]
+
+source_file="res://assets/map/obj/coin_stack_medium.obj"
+dest_files=["res://.godot/imported/coin_stack_medium.obj-17b3aa973c7af0d7bce7210fd60acf9c.mesh", "res://.godot/imported/coin_stack_medium.obj-17b3aa973c7af0d7bce7210fd60acf9c.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

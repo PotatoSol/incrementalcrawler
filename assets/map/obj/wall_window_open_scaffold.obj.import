@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bltycw27v2kgm"
+path="res://.godot/imported/wall_window_open_scaffold.obj-38d25b5bae96822c620e23b5cce2473b.mesh"
+
+[deps]
+
+files=["res://.godot/imported/wall_window_open_scaffold.obj-38d25b5bae96822c620e23b5cce2473b.mesh"]
+
+source_file="res://assets/map/obj/wall_window_open_scaffold.obj"
+dest_files=["res://.godot/imported/wall_window_open_scaffold.obj-38d25b5bae96822c620e23b5cce2473b.mesh", "res://.godot/imported/wall_window_open_scaffold.obj-38d25b5bae96822c620e23b5cce2473b.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

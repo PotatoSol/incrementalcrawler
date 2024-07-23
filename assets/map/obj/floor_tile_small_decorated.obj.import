@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dfyr7ub7fyr5v"
+path="res://.godot/imported/floor_tile_small_decorated.obj-a3b677a4f4eca1862a4379c23e2f69d1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/floor_tile_small_decorated.obj-a3b677a4f4eca1862a4379c23e2f69d1.mesh"]
+
+source_file="res://assets/map/obj/floor_tile_small_decorated.obj"
+dest_files=["res://.godot/imported/floor_tile_small_decorated.obj-a3b677a4f4eca1862a4379c23e2f69d1.mesh", "res://.godot/imported/floor_tile_small_decorated.obj-a3b677a4f4eca1862a4379c23e2f69d1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
